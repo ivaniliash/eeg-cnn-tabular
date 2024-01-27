@@ -1,5 +1,5 @@
 # Pain Classification on EEG and Tabular Data
-University project Lab for AI in Medicine at TU Munich with Felix Hsieh, Carlos Llano and Ivan Iliash (me).
+University project at the Lab for AI in Medicine at TU Munich with Felix Hsieh, Carlos Llano and Ivan Iliash (me).
 
 ## Project structure
 
