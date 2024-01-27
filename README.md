@@ -11,16 +11,15 @@ Winter Semester 22/23.
 
 ## Data
 EEG recordings and Tabular data (demographic information, disease relevant information) from healthy subjects and patients
-with chronic pain.
+with chronic pain. The follwing data files were provided by the _University Hospital rechts der Isar_. Unfortunately the datasets can't be shared with the public.
 - data_Dinh_fs200.pt
 - data_Heitmann_fs200.pt
 - labels_Dinh_fs200.pt
 - labels_Heitmann_fs200.pt
 - tabular_Dinh.xlsx
-- tabular_Heitmann.xlsx
-Unfortunately those datasets can't be shared with the public.
+- tabular_Heitmann.xlsx\
 
-Note: Data is provided by the _University Hospital rechts der Isar_.
+The EEG data is provided as batches of torch tensors in the `.pt` files.
 
 For more details, see notebook [EDA.ipynb](notebooks/EDA.ipynb).
 
