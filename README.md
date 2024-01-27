@@ -18,6 +18,7 @@ with chronic pain.
 - labels_Heitmann_fs200.pt
 - tabular_Dinh.xlsx
 - tabular_Heitmann.xlsx
+Unfortunately those datasets can't be shared with the public.
 
 Note: Data is provided by the _University Hospital rechts der Isar_.
 
