@@ -17,7 +17,7 @@ with chronic pain. The follwing data files were provided by the _University Hosp
 - labels_Dinh_fs200.pt
 - labels_Heitmann_fs200.pt
 - tabular_Dinh.xlsx
-- tabular_Heitmann.xlsx\
+- tabular_Heitmann.xlsx
 
 The EEG data is provided as batches of torch tensors in the `.pt` files.
 
